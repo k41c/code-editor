@@ -138,5 +138,5 @@
   "backup successful": "Backup erfolgreich",
   "invalid backup file": "Ungültige Backup Datei",
   "backup file found": "Backup file found, do you want to restore settings, key-bindings and ftp-accounts from backup file?",
-  "welcome back": "Welcome back"
+  "welcome back": "Willkommen zurück"
 }
